@@ -1,0 +1,5 @@
+project: ascii-image-converter
+target: ascii-image-converter
+
+cmds:
+  - cmd: /ascii-image-converter @@
